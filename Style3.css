@@ -1,0 +1,27 @@
+*
+{
+   font-family: 'Comic Sans MS', cursive;
+   background-color: #E6E6E6;
+}
+ul{
+    margin-left: 215px
+}
+table{
+    margin: auto;
+}
+p
+{
+    text-align: center;
+}
+tr:last-child
+{
+    text-align: center;
+}
+input[type=submit]
+{
+    margin-left: 600px;
+
+}
+span{
+    text-align: center;
+}
